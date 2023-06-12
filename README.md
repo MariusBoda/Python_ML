@@ -1,5 +1,4 @@
-# Python_ML
-Aalto University summer course: Machine Learning with Python
+# Aalto University summer course: Machine Learning with Python
 
 This is my repository for my work in this Machine Learning with Python summer course. 
 
