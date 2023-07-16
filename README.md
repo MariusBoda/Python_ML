@@ -6,16 +6,32 @@ This is my repository for my work in this Machine Learning with Python summer co
 
 The course is divided into several modules, each covering different aspects of machine learning. The modules are organized as follows:
 
-Module 1: Introduction to Machine Learning: This module provides an overview of machine learning and its applications. You will learn about different types of machine learning algorithms and their characteristics.
+Assignment List:
 
-Module 2: Data Preprocessing: In this module, you will learn how to preprocess and prepare data for machine learning tasks. Topics include handling missing data, feature scaling, and dealing with categorical variables.
+**0_Intromlpython2023a:** In this assignment, I gained familiarity with Python programming and explored essential libraries used in ML. I successfully completed tasks related to data preprocessing, data visualization, and data manipulation techniques.
 
-Module 3: Regression: This module focuses on regression algorithms. You will learn about linear regression, polynomial regression, and how to evaluate regression models.
+![image](https://github.com/MariusBoda/Python_ML/assets/35667954/bc80cf63-667f-4879-ad10-7595c10f850b)
 
-Module 4: Classification: In this module, you will explore classification algorithms. Topics include logistic regression, decision trees, and evaluation metrics for classification models.
+**1_ComponentsMLmlpython2023a:** I completed this assignment by thoroughly understanding feature engineering, feature scaling, handling missing data, and detecting outliers. These concepts are crucial for building reliable ML models.
 
-Module 5: Clustering: This module covers clustering algorithms. You will learn about k-means clustering, hierarchical clustering, and evaluation metrics for clustering.
+![image](https://github.com/MariusBoda/Python_ML/assets/35667954/31517070-1eb4-4731-9dd0-e62e02fe35bd)
 
-Module 6: Dimensionality Reduction: This module introduces dimensionality reduction techniques, such as Principal Component Analysis (PCA) and t-SNE.
+**2_Regressionmlpython2023a:** In this assignment, I delved into regression techniques, including linear regression, polynomial regression, and regularized regression. I successfully trained regression models, evaluated their performance, and made accurate predictions.
 
-Module 7: Model Selection and Evaluation: In the final module, you will learn about techniques for model selection, hyperparameter tuning, and model evaluation using cross-validation.
+![image](https://github.com/MariusBoda/Python_ML/assets/35667954/3ca24fd5-5d29-4c6a-828a-55ee6c958e69)
+
+**3_ModelValSelmlpython2023a:** I mastered the art of model evaluation and selection through this assignment. I successfully implemented various evaluation metrics, cross-validation techniques, and hyperparameter tuning to optimize the performance of my ML models.
+
+![image](https://github.com/MariusBoda/Python_ML/assets/35667954/e8575fcd-dafc-48d0-85be-8441aac30afa)
+
+**4_Classificationmlpython2023a:** This assignment allowed me to immerse myself in classification problems. I trained and evaluated different classification algorithms such as logistic regression, decision trees, random forests, and support vector machines (SVM).
+
+![image](https://github.com/MariusBoda/Python_ML/assets/35667954/0240f3f0-e8f2-4a87-bed4-9ecafd74e584)
+
+**5_Clusteringmlpython2023a:** I gained insights into unsupervised learning techniques by completing this assignment. I successfully grouped data points into clusters using algorithms like K-means and hierarchical clustering, understanding data patterns and structures.
+
+![image](https://github.com/MariusBoda/Python_ML/assets/35667954/2dac00fc-9341-40aa-9296-c74b47129d6d)
+
+**6_DimRedmlpython2023a:** In this assignment, I focused on dimensionality reduction techniques. By implementing Principal Component Analysis (PCA), I reduced feature dimensions while preserving essential information.
+
+![image](https://github.com/MariusBoda/Python_ML/assets/35667954/e6071151-fe4a-419b-85d9-b15bd5f44bdb)
